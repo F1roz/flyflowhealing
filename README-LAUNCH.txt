@@ -6,7 +6,7 @@ Upload the whole folder to any static host:
   - Any web host: upload everything to public_html / the site root
 
 BEFORE GOING LIVE
-1. Domain: every page uses https://www.flyflowhealing.com for SEO links.
+1. Domain: every page uses https://flyflowhealing.vercel.app for SEO links.
    If her domain is different, find-and-replace that address in all
    .html files, sitemap.xml and robots.txt.
 2. After launch, add the site in Google Search Console and submit
