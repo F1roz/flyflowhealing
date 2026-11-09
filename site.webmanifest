@@ -3,8 +3,8 @@
  "short_name": "flyflow",
  "start_url": "/",
  "display": "standalone",
- "background_color": "#2a1f4a",
- "theme_color": "#2a1f4a",
+ "background_color": "#fbfaf4",
+ "theme_color": "#2e5e5a",
  "icons": [
   {
    "src": "/assets/img/icon-192.png",
